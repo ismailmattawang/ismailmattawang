@@ -66,7 +66,7 @@ I am passionate about cybersecurity and committed to continuously developing my 
 </div>
 
 ## Projects
--  CTF Walkthrough ![status](https://img.shields.io/badge/status-done-brightgreen)
+- <a href="https://www.youtube.com/@Recoon1337">CTF Walkthrough</a> ![status](https://img.shields.io/badge/status-done-brightgreen)
 - Vulnerability Assessment & Management (Nessus) ![status](https://img.shields.io/badge/status-processing-orange)
 - Web App Pentest (Juice Shop) ![status](https://img.shields.io/badge/status-not%20started-lightgrey)
 - Python Automation (Log Parsing / Scan Alert) ![status](https://img.shields.io/badge/status-not%20started-lightgrey)
