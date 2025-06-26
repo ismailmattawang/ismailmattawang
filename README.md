@@ -14,7 +14,7 @@ I am passionate about cybersecurity and committed to continuously developing my 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Capture the Flag (CTF) Techniques          | <a href="https://www.youtube.com/@Recoon1337">CTF Walkthrough</a>|
-| Vulnerability Scanning & Assessment | <a href="https://www.youtube.com/@Recoon1337">Vulnerability Assessment & Management (Nessus)</a>|
+| Vulnerability Scanning & Assessment | <a href="https://github.com/ismailmattawang/Vulnerability-Assessment-and-Management-with-Nessus/tree/main">Vulnerability Assessment & Management (Nessus)</a>|
 | Report Writing & Risk Management         | <a href="https://www.youtube.com/@Recoon1337">Vulnerability Assessment & Management (Nessus)</a>|
 | Web Application Penetration Testing      | <a href="https://www.youtube.com/@Recoon1337">Web App Pentest (Juice Shop)</a>|
 | Burp Suite & OWASP Testing Methods                  | <a href="https://www.youtube.com/@Recoon1337">Web App Pentest (Juice Shop)</a>|
@@ -67,8 +67,8 @@ I am passionate about cybersecurity and committed to continuously developing my 
 
 ## Projects
 - <a href="https://www.youtube.com/@Recoon1337">CTF Walkthrough</a> ![status](https://img.shields.io/badge/status-done-brightgreen)
-- Vulnerability Assessment & Management (Nessus) ![status](https://img.shields.io/badge/status-processing-orange)
-- Web App Pentest (Juice Shop) ![status](https://img.shields.io/badge/status-not%20started-lightgrey)
+- <a href="https://github.com/ismailmattawang/Vulnerability-Assessment-and-Management-with-Nessus/tree/main">Vulnerability Assessment & Management (Nessus)</a> ![status](https://img.shields.io/badge/status-done-brightgreen)
+- Web App Pentest (Juice Shop) ![status](https://img.shields.io/badge/status-processing-orange)
 - Python Automation (Log Parsing / Scan Alert) ![status](https://img.shields.io/badge/status-not%20started-lightgrey)
 - Android Pentesting Lab (AVD + Burp + Frida) ![status](https://img.shields.io/badge/status-not%20started-lightgrey)
 - Static APK Malware Analysis (MobSF + JADX) ![status](https://img.shields.io/badge/status-not%20started-lightgrey)
