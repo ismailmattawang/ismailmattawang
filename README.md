@@ -15,7 +15,7 @@ I am passionate about cybersecurity and committed to continuously developing my 
 |-----------------------------------------------|----------------------------|
 | Capture the Flag (CTF) Techniques          | <a href="https://www.youtube.com/@Recoon1337">CTF Walkthrough</a>|
 | Vulnerability Scanning & Assessment | <a href="https://github.com/ismailmattawang/Vulnerability-Assessment-and-Management-with-Nessus/tree/main">Vulnerability Assessment & Management (Nessus)</a>|
-| Web Application Penetration Testing      | <a href="https://www.youtube.com/@Recoon1337">Web App Pentest (Burp Suite)</a>|
+| Web Application Penetration Testing      | <a href="https://github.com/ismailmattawang/Web-App-Pentest-with-Burp-Suite/tree/main">Web App Pentest (Burp Suite)</a>|
 | Burp Suite & OWASP Testing Methods                  | <a href="https://www.youtube.com/@Recoon1337">Web App Pentest (Burp Suite)</a>|
 | Python Scripting & Automation | <a href="https://www.youtube.com/@Recoon1337">Python Automation (Log Parsing / Scan Alert)</a>|
 | Android Application Security Testing          | <a href="https://www.youtube.com/@Recoon1337">Android Pentesting Lab (AVD + Burp + Frida)</a>|
@@ -67,8 +67,8 @@ I am passionate about cybersecurity and committed to continuously developing my 
 ## Projects
 - <a href="https://www.youtube.com/@Recoon1337">CTF Walkthrough</a> ![status](https://img.shields.io/badge/status-done-brightgreen)
 - <a href="https://github.com/ismailmattawang/Vulnerability-Assessment-and-Management-with-Nessus/tree/main">Vulnerability Assessment & Management (Nessus)</a> ![status](https://img.shields.io/badge/status-done-brightgreen)
-- Web App Pentest (Burp Suite) ![status](https://img.shields.io/badge/status-processing-orange)
-- Python Automation (Log Parsing / Scan Alert) ![status](https://img.shields.io/badge/status-not%20started-lightgrey)
+- <a href="https://github.com/ismailmattawang/Web-App-Pentest-with-Burp-Suite/tree/main">Web App Pentest (Burp Suite)</a> ![status](https://img.shields.io/badge/status-done-brightgreen)
+- Python Automation (Log Parsing / Scan Alert) ![status](https://img.shields.io/badge/status-processing-orange)
 - Android Pentesting Lab (AVD + Burp + Frida) ![status](https://img.shields.io/badge/status-not%20started-lightgrey)
 - Static APK Malware Analysis (MobSF + JADX) ![status](https://img.shields.io/badge/status-not%20started-lightgrey)
 - Python Automation on Android (ADB tool, data scrape) ![status](https://img.shields.io/badge/status-not%20started-lightgrey)
