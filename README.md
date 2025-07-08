@@ -39,7 +39,7 @@ I am passionate about cybersecurity and committed to continuously developing my 
 
 ### Web Application Testing
 <div>
-   <img src="https://img.shields.io/badge/-Burp_Suite-FF6600?&style=for-the-badge&logo=PortSwigger&logoColor=white" /> <img src="https://img.shields.io/badge/-OWASP_Juice_Shop-000000?&style=for-the-badge&logo=OWASP&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Burp_Suite-FF6600?&style=for-the-badge&logo=PortSwigger&logoColor=white" />
 </div>
 
 ### Mobile Security & Analysis
