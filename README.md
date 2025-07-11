@@ -17,7 +17,7 @@ I am passionate about cybersecurity and committed to continuously developing my 
 | Vulnerability Scanning & Assessment | <a href="https://github.com/ismailmattawang/Vulnerability-Assessment-and-Management-with-Nessus/tree/main">Vulnerability Assessment and Management with Nessus</a>|
 | Web Application Penetration Testing      | <a href="https://github.com/ismailmattawang/Web-App-Pentest-with-Burp-Suite/tree/main">Web App Pentest with Burp Suite</a>|
 | Burp Suite & OWASP Testing Methods                  | <a href="https://github.com/ismailmattawang/Web-App-Pentest-with-Burp-Suite/tree/main">Web App Pentest with Burp Suite</a>|
-| Python Scripting & Automation | <a href="https://www.youtube.com/@Recoon1337">Python Automation (Log Parsing / Scan Alert)</a>|
+| Python Scripting & Automation | <a href="https://github.com/ismailmattawang/Log-Parsing-and-Alert-Automation-with-Python">Log Parsing and Alert Automation with Python</a>|
 | Android Application Security Testing          | <a href="https://www.youtube.com/@Recoon1337">Android Pentesting Lab (AVD + Burp + Frida)</a>|
 | Mobile Network Traffic Interception          | <a href="https://www.youtube.com/@Recoon1337">Android Pentesting Lab (AVD + Burp + Frida)</a>|
 | Static Malware Analysis (APK)         | <a href="https://www.youtube.com/@Recoon1337">Static APK Malware Analysis (MobSF + JADX)</a>|
@@ -68,7 +68,7 @@ I am passionate about cybersecurity and committed to continuously developing my 
 - <a href="https://www.youtube.com/@Recoon1337">CTF Walkthrough</a> ![status](https://img.shields.io/badge/status-done-brightgreen)
 - <a href="https://github.com/ismailmattawang/Vulnerability-Assessment-and-Management-with-Nessus/tree/main">Vulnerability Assessment and Management with Nessus</a> ![status](https://img.shields.io/badge/status-done-brightgreen)
 - <a href="https://github.com/ismailmattawang/Web-App-Pentest-with-Burp-Suite/tree/main">Web App Pentest with Burp Suite</a> ![status](https://img.shields.io/badge/status-done-brightgreen)
-- Python Automation (Log Parsing / Scan Alert) ![status](https://img.shields.io/badge/status-processing-orange)
+- <a href="https://github.com/ismailmattawang/Log-Parsing-and-Alert-Automation-with-Python">Log Parsing and Alert Automation with Python</a> ![status](https://img.shields.io/badge/status-processing-orange)
 - Android Pentesting Lab (AVD + Burp + Frida) ![status](https://img.shields.io/badge/status-not%20started-lightgrey)
 - Static APK Malware Analysis (MobSF + JADX) ![status](https://img.shields.io/badge/status-not%20started-lightgrey)
 - Python Automation on Android (ADB tool, data scrape) ![status](https://img.shields.io/badge/status-not%20started-lightgrey)
