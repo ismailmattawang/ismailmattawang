@@ -68,8 +68,8 @@ I am passionate about cybersecurity and committed to continuously developing my 
 - <a href="https://www.youtube.com/@Recoon1337">CTF Walkthrough</a> ![status](https://img.shields.io/badge/status-done-brightgreen)
 - <a href="https://github.com/ismailmattawang/Vulnerability-Assessment-and-Management-with-Nessus/tree/main">Vulnerability Assessment and Management with Nessus</a> ![status](https://img.shields.io/badge/status-done-brightgreen)
 - <a href="https://github.com/ismailmattawang/Web-App-Pentest-with-Burp-Suite/tree/main">Web App Pentest with Burp Suite</a> ![status](https://img.shields.io/badge/status-done-brightgreen)
-- <a href="https://github.com/ismailmattawang/Log-Parsing-and-Alert-Automation-with-Python">Log Parsing and Alert Automation with Python</a> ![status](https://img.shields.io/badge/status-processing-orange)
-- Android Pentesting Lab (AVD + Burp + Frida) ![status](https://img.shields.io/badge/status-not%20started-lightgrey)
+- <a href="https://github.com/ismailmattawang/Log-Parsing-and-Alert-Automation-with-Python">Log Parsing and Alert Automation with Python</a> ![status](https://img.shields.io/badge/status-done-brightgreen)
+- Android Pentesting Lab (AVD + Burp + Frida) ![status](https://img.shields.io/badge/status-processing-orange)
 - Static APK Malware Analysis (MobSF + JADX) ![status](https://img.shields.io/badge/status-not%20started-lightgrey)
 - Python Automation on Android (ADB tool, data scrape) ![status](https://img.shields.io/badge/status-not%20started-lightgrey)
 
